@@ -4,12 +4,15 @@ Hardware ist an unbekannten Orten. Aber für die Aufnahme von Vorlesungen wüsst
 Auf der Basis eines nRF24L01+ und eines AVR wird so ein preiswertes und stromsparendes Stück Hardware implementiert, die sich jeweils am Equipment befindet und in regelmäßigen Intervallen eine eindeutige ID aussendet. Diese ID wird dann von einem dauerhaft lauschenden Empfänger verarbeitet.
 
 ## Projektstatus
-
 Es existiert eine weitgehend stabile und laut Datenblätter stromsparende Idee für die Beacons. Platinen wurden designed und geätzt.
-Nächster Schritt: Platinen bestücken und die Firmware anfangen zu entwickeln.
 
+## Todo
+* Platinen bestücken
+* Firmware entwickeln
+* Hardware testen
+* Hardware für die Station designen
 
-## Layout und so
+## Schaltplan und Layout
 
 ### Schaltplan
 ![Schaltplan der Beaconschaltung](img/schaltplan.png)
